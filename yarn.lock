@@ -1483,10 +1483,10 @@
     "@types/yargs" "^17.0.8"
     chalk "^4.0.0"
 
-"@jpaakko/react-scripts@5.0.0-fork.1.0.0":
-  version "5.0.0-fork.1.0.0"
-  resolved "https://npm.pkg.github.com/download/@jpaakko/react-scripts/5.0.0-fork.1.0.0/9ce33e19b5e876c9d915fef2bd666f1683669a5a#9ce33e19b5e876c9d915fef2bd666f1683669a5a"
-  integrity sha512-TUi3F7gz0xKKYMiNVMxfNUcKMGO5dfI41AnuJ/coJ0Vs9cWe+wXWLJhGNhEsKoeqHm/r0k6w7crUS2QiWZeYsg==
+"@jpaakko/react-scripts@5.0.0-fork.1.0.1":
+  version "5.0.0-fork.1.0.1"
+  resolved "https://npm.pkg.github.com/download/@jpaakko/react-scripts/5.0.0-fork.1.0.1/cf1f6051f31a17dfb6486e9f77115545b5a91839#cf1f6051f31a17dfb6486e9f77115545b5a91839"
+  integrity sha512-Zd9pprM9vdleYiKasqf5cnbSoys42vJQYvxsuv1snvTiBU9EbAV2hci4Dv/hqhBnvGtCoioOKBOpc6NDeM8iYQ==
   dependencies:
     "@babel/core" "^7.16.0"
     "@pmmmwh/react-refresh-webpack-plugin" "^0.5.3"

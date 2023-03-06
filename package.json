@@ -7,7 +7,7 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "@jpaakko/react-scripts": "5.0.0-fork.1.0.0",
+    "@jpaakko/react-scripts": "5.0.0-fork.1.0.1",
     "@testing-library/jest-dom": "5.16.5",
     "@testing-library/react": "14.0.0",
     "@testing-library/user-event": "14.4.3",
